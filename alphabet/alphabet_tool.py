@@ -6,7 +6,8 @@ alphabet_fns = {
   "tat": "tat_alphabet.txt",
   "crh": "crh_alphabet.txt",
   "kir": "kir_alphabet.txt",
-  "tur": "tur_alphabet.txt"
+  "tur": "tur_alphabet.txt",
+  "krc": "krc_alphabet.txt"
 }
 
 langs = set(alphabet_fns.keys())
