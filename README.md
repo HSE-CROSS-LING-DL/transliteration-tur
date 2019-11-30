@@ -1,7 +1,3 @@
 # Transliteration
 
-## to-do
-- [ ] clean-up this repo
-- [ ] reproduce transliteration
-- [ ] restore bug-reports
-- [ ] fix bugs
+usage: `cat filename_to_normalize.txt | ./text_normalizer.sh > res.txt`
